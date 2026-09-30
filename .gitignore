@@ -1,0 +1,15 @@
+# Python environments
+.venv/
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Confidential chat exports (preserve confidentiality)
+WhatsApp Chat with *.txt
+*.csv
+
+# Editor directories
+.idea/
+.vscode/
